@@ -79,7 +79,7 @@ export default function LoginForm() {
         </div>
         <LoadingButton
           loading={store.requestLoading}
-          textColor="text-ct-blue-600"
+          textColor="text-white"
         >
           Login
         </LoadingButton>
